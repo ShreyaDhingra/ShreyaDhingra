@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="200" src="https://media2.giphy.com/media/fedryX7dMGMe6lgqDm/200w.gif">
 
 
-<h4>I'm a passionate full stack Java developer. I love working with SpringBoot and Angular.  I completed my Bachelors in Computer Science and Engineering from Bharati Vidyapeeth's College Of Engineering, New Delhi, India. Apart from Java, I also have experience working with Python and Django. I am currently obsessed with using my skills to work on practical problems. In my free time, I love travelling and reading books.</h4>
+<p>I'm a passionate full stack Java developer. I love working with SpringBoot and Angular.  I completed my Bachelors in Computer Science and Engineering from Bharati Vidyapeeth's College Of Engineering, New Delhi, India. Apart from Java, I also have experience working with Python and Django. I am currently obsessed with using my skills to work on practical problems. In my free time, I love travelling and reading books.</p>
 
 - 💬 Ask me about **Spring boot, Angular**
 

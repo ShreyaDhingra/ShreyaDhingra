@@ -4,7 +4,7 @@
 
 <p>I'm a passionate full stack Java developer. I love working with SpringBoot and React.  I completed my Bachelors in Computer Science and Engineering from Bharati Vidyapeeth's College Of Engineering, New Delhi, India. Apart from Java, I also have experience working with Python and Django. I am currently obsessed with using my skills to work on practical problems. In my free time, I love travelling and reading books.</p>
 
-- 💬 Ask me about **Spring boot, Angular**
+- 💬 Ask me about **Spring boot, Java**
 
 - 📫 How to reach me **shreyadhingra54@gmail.com**
 
